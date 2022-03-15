@@ -16,7 +16,7 @@ Setting up Linters and getting comfortable with best practices and Github workfl
 👤 **Andres Agudelo**
 
 - GitHub: [@anagudelogu](https://github.com/anagudelogu)
-- Twitter: [@AgudeloAndres__]
+- Twitter: [@AgudeloAndres__](https://twitter.com/AgudeloAndres__)
 - LinkedIn: [Andres Agudelo Guzman](https://linkedin.com/in/aagst)
 
 
